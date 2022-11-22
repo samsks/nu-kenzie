@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 593 593" xmlns="http://www.w3.org/2000/svg">
+<style><![CDATA[
+#eWMdc6KVjXs3_ts {animation: eWMdc6KVjXs3_ts__ts 8000ms linear infinite alternate forwards}@keyframes eWMdc6KVjXs3_ts__ts { 0% {transform: translate(296.5px,296.5px) scale(1,1)} 12.5% {transform: translate(296.5px,296.5px) scale(1.05,1.05)} 25% {transform: translate(296.5px,296.5px) scale(1,1)} 37.5% {transform: translate(296.5px,296.5px) scale(0.95,0.95)} 50% {transform: translate(296.5px,296.5px) scale(1,1)} 62.5% {transform: translate(296.5px,296.5px) scale(1.05,1.05)} 75% {transform: translate(296.5px,296.5px) scale(1,1)} 87.5% {transform: translate(296.5px,296.5px) scale(0.95,0.95)} 100% {transform: translate(296.5px,296.5px) scale(1,1)}} #eWMdc6KVjXs4_ts {animation: eWMdc6KVjXs4_ts__ts 8000ms linear infinite alternate forwards}@keyframes eWMdc6KVjXs4_ts__ts { 0% {transform: translate(293.784px,296.5px) scale(1.05,1.05)} 12.5% {transform: translate(293.784px,296.5px) scale(1,1)} 25% {transform: translate(293.784px,296.5px) scale(0.95,0.95)} 37.5% {transform: translate(293.784px,296.5px) scale(1,1)} 50% {transform: translate(293.784px,296.5px) scale(1.05,1.05)} 62.5% {transform: translate(293.784px,296.5px) scale(1,1)} 75% {transform: translate(293.784px,296.5px) scale(0.95,0.95)} 87.5% {transform: translate(293.784px,296.5px) scale(1,1)} 100% {transform: translate(293.784px,296.5px) scale(1.05,1.05)}} #eWMdc6KVjXs12_to {animation: eWMdc6KVjXs12_to__to 8000ms linear infinite alternate forwards}@keyframes eWMdc6KVjXs12_to__to { 0% {transform: translate(335.89px,341.5px)} 18.75% {transform: translate(335.891906px,347px)} 100% {transform: translate(335.891906px,347px)}} #eWMdc6KVjXs12_ts {animation: eWMdc6KVjXs12_ts__ts 8000ms linear infinite alternate forwards}@keyframes eWMdc6KVjXs12_ts__ts { 0% {transform: scale(0.5,0.5)} 18.75% {transform: scale(1,1)} 100% {transform: scale(1,1)}} #eWMdc6KVjXs12 {animation-name: eWMdc6KVjXs12__tt, eWMdc6KVjXs12_c_o;animation-duration: 8000ms;animation-fill-mode: forwards;animation-timing-function: linear;animation-direction: alternate;animation-iteration-count: infinite;}@keyframes eWMdc6KVjXs12__tt { 0% {transform: translate(-490px,-295px)} 18.75% {transform: translate(-335.893005px,-341.5px)} 100% {transform: translate(-335.893005px,-341.5px)}}@keyframes eWMdc6KVjXs12_c_o { 0% {opacity: 0} 18.75% {opacity: 1} 100% {opacity: 1}} #eWMdc6KVjXs23_to {animation: eWMdc6KVjXs23_to__to 8000ms linear infinite alternate forwards}@keyframes eWMdc6KVjXs23_to__to { 0% {transform: translate(343.350201px,313.349918px)} 12.5% {transform: translate(343.350201px,313.349918px)} 31.25% {transform: translate(238.1054px,284.730202px)} 100% {transform: translate(238.1054px,284.730202px)}} #eWMdc6KVjXs23_ts {animation: eWMdc6KVjXs23_ts__ts 8000ms linear infinite alternate forwards}@keyframes eWMdc6KVjXs23_ts__ts { 0% {transform: scale(0.4,0.4)} 12.5% {transform: scale(0.4,0.4)} 31.25% {transform: scale(1,1)} 100% {transform: scale(1,1)}} #eWMdc6KVjXs23 {animation-name: eWMdc6KVjXs23__tt, eWMdc6KVjXs23_c_o;animation-duration: 8000ms;animation-fill-mode: forwards;animation-timing-function: linear;animation-direction: alternate;animation-iteration-count: infinite;}@keyframes eWMdc6KVjXs23__tt { 0% {transform: translate(-238.1054px,-284.730202px)} 12.5% {transform: translate(-238.1054px,-284.730202px)} 31.25% {transform: translate(-238.1054px,-284.730202px)} 100% {transform: translate(-238.1054px,-284.730202px)}}@keyframes eWMdc6KVjXs23_c_o { 0% {opacity: 0} 12.5% {opacity: 0} 31.25% {opacity: 1} 100% {opacity: 1}}
+]]></style>
+<circle transform="translate(296.5 296.5)" r="296.5" fill="#e064cc" fill-opacity=".05"/>
+<g transform="translate(296.5 296.5) scale(1)">
+<circle transform="translate(0)" r="258.48" fill="#e064cc" fill-opacity=".05"/>
+</g>
+<g transform="translate(293.78 296.5) scale(1.05)">
+<circle transform="translate(0)" r="212.3" fill="#e064cc" fill-opacity=".05"/>
+</g>
+<rect transform="translate(174.73 104.12)" width="256.21" height="354.9" rx="3.6214" ry="3.6214" fill="#fff"/>
+<rect transform="translate(200 194)" width="206" height="36" rx="1.8107" ry="1.8107" fill="#f3f3f3"/>
+<rect transform="translate(200 245)" width="206" height="36" rx="1.8107" ry="1.8107" fill="#f3f3f3"/>
+<rect transform="translate(200 143)" width="206" height="36" rx="1.8107" ry="1.8107" fill="#f3f3f3"/>
+<rect transform="translate(200 347)" width="206" height="36" rx="1.8107" ry="1.8107" fill="#f3f3f3"/>
+<rect transform="translate(200 398)" width="206" height="36" rx="1.8107" ry="1.8107" fill="#f3f3f3"/>
+<rect transform="translate(200 296)" width="206" height="36" rx="1.8107" ry="1.8107" fill="#f3f3f3"/>
+<g transform="translate(335.89,341.5)">
+<g transform="scale(.5)">
+<g transform="translate(-490,-295)" opacity="0">
+<rect transform="translate(220 307)" width="231.79" height="69" rx="2.6796" ry="2.6796" fill="#fff"/>
+<rect transform="translate(283.64 320.4)" width="152.74" height="11.388" rx="1.3398" ry="1.3398" fill="#66c085" fill-opacity=".11"/>
+<rect transform="translate(283.64 339.16)" width="38.854" height="11.388" rx="1.3398" ry="1.3398" fill="#66c085" fill-opacity=".11"/>
+<rect transform="translate(230.05 320.4)" width="44.884" height="42.874" rx="2.6796" ry="2.6796" fill="#66c085"/>
+<g clip-path="url(#b)">
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3398">
+<path d="M258.184,336.476h-12.058c-.74,0-1.34.6-1.34,1.34v8.038c0,.74.6,1.34,1.34,1.34h12.058c.74,0,1.34-.6,1.34-1.34v-8.038c0-.74-.6-1.34-1.34-1.34Z"/>
+<path d="m244.79 340.5h14.738"/>
+</g>
+<clipPath id="b">
+<rect transform="translate(244.12 333.8)" width="16.078" height="16.078" rx="0" ry="0" fill="#fff"/>
+</clipPath>
+</g>
+</g>
+</g>
+</g>
+<g transform="translate(343.35 313.35)">
+<g transform="scale(.4)">
+<g transform="translate(-238.11 -284.73)" opacity="0">
+<rect transform="translate(197 240.35)" width="52.51" height="15.391" rx="1.8107" ry="1.8107" fill="#fceffa"/>
+<rect transform="translate(81.481 238.1)" width="313.25" height="93.25" rx="3.6214" ry="3.6214" fill="#fff"/>
+<rect transform="translate(167.49 256.21)" width="206.42" height="15.391" rx="1.8107" ry="1.8107" fill="#fceffa"/>
+<rect transform="translate(167.49 281.56)" width="52.51" height="15.391" rx="1.8107" ry="1.8107" fill="#fceffa"/>
+<rect transform="translate(95.061 256.21)" width="60.658" height="57.942" rx="3.6214" ry="3.6214" fill="#fd377e"/>
+<g clip-path="url(#a)">
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8107">
+<path d="M133.086,277.94h-16.297c-1,0-1.81.811-1.81,1.811v10.864c0,1,.81,1.811,1.81,1.811h16.297c1,0,1.81-.811,1.81-1.811v-10.864c0-1-.81-1.811-1.81-1.811Z"/>
+<path d="m114.98 283.37h19.917"/>
+</g>
+<clipPath id="a">
+<rect transform="translate(114.07 274.32)" width="21.728" height="21.728" rx="0" ry="0" fill="#fff"/>
+</clipPath>
+</g>
+</g>
+</g>
+</g>
+</svg>

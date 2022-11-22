@@ -1,0 +1,33 @@
+.title1 {
+    font-weight: var(--font-weight-1);
+    font-size: var(--fontsize-title-1);
+}
+
+.title2 {
+    font-weight: var(--font-weight-1);
+    font-size: var(--fontsize-title-2);
+}
+
+.title3 {
+    font-weight: var(--font-weight-1);
+    font-size: var(--fontsize-title-3);
+}
+
+.title4 {
+    font-weight: var(--font-weight-1);
+    font-size: var(--fontsize-title-4);
+}
+
+.text_headline {
+    font-weight: var(--font-weight-2);
+    font-size: var(--fontsize-headline);
+}
+
+.text_body {
+    font-weight: var(--font-weight-2);
+    font-size: var(--fontsize-body);
+}
+
+.label {
+    line-height: 1.375rem;
+}

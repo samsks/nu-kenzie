@@ -1,0 +1,33 @@
+.menu_options {
+    width: 363px;
+    justify-content: flex-end;
+}
+
+.menu_options>h3 {
+
+    font-style: var(--font-style-1);
+    font-weight: var(--font-weight-7);
+    font-size: var(--fontsize-headline);
+    line-height: 1.875rem;
+
+    color: var(--grey-scale-1);
+}
+
+@media (min-width: 868px) {
+    .menu_options {
+        width: 100%;
+
+    }
+
+}
+
+@media (min-width: 913px) {
+    .menu_options {
+
+        justify-content: space-between;
+    }
+
+    .menu_options>h3 {
+        display: block;
+    }
+}
