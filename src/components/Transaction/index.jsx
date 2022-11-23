@@ -1,8 +1,6 @@
 import "./style.css";
 import { FaTrash } from "react-icons/fa";
 
-// import trash_icon from "../../assets/img/trash.svg";
-
 const Transaction = ({
   description,
   transactionType,

@@ -4,6 +4,13 @@
   width: 100vw;
   height: 100vh;
   background-color: var(--grey-scale-2);
+  background-image: url("./assets/img/result2AnimatedCSS.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: multiply;
+  background-size: 700px;
+
+  animation: openpage 0.5s ease;
 }
 
 .div_nu_initial {
@@ -43,7 +50,7 @@
 }
 
 #svgHome {
-  max-width: 540px;
+  max-width: 590px;
 }
 
 /*DASHBOARD*/
@@ -69,6 +76,8 @@
   width: 100vw;
   height: 100vh;
   background-color: var(--white-fixed);
+
+  animation: openpage 0.5s ease;
 }
 
 .dashboard header {

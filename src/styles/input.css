@@ -1,92 +1,132 @@
 .input {
-    width: 100%;
-    height: 3.3rem;
+  width: 100%;
+  height: 3.3rem;
 
-    padding: 0 1rem;
-    gap: 10px;
+  padding: 0 1rem;
+  gap: 10px;
 
-    background: var(--grey-scale-5);
+  background: var(--grey-scale-5);
 
-    border: 2px solid var(--grey-scale-5);
-    border-radius: .5rem;
+  border: 1.2px solid var(--grey-scale-5);
+  border-radius: 0.5rem;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+
+  outline: none;
+}
+
+.input:focus {
+  border: 1.2px solid var(--grey-scale-1);
 }
 
 .input::placeholder {
-    font-family: var(--font-family-2);
-    font-style: var(--font-style-1);
-    font-weight: var(--font-weight-4);
-    font-size: var(--fontsize-inputplace);
-    line-height: 1.625rem;
+  font-family: var(--font-family-2);
+  font-style: var(--font-style-1);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
 
-    color: var(--grey-scale-3);
+  color: var(--grey-scale-3);
 }
-
 
 .label_input_value {
-    font-family: var(--font-family-2);
-    font-style: var(--font-style-1);
-    font-weight: var(--font-weight-4);
-    font-size: var(--fontsize-body);
-    line-height: 1.375rem;
+  font-family: var(--font-family-2);
+  font-style: var(--font-style-1);
+  font-weight: var(--font-weight-4);
+  font-size: var(--fontsize-body);
+  line-height: 1.375rem;
 
-    color: var(--grey-scale-1);
+  color: var(--grey-scale-1);
 }
 
+.input_value::-webkit-outer-spin-button,
+.input_value::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
 
 .input_value {
-    width: 128px;
-    height: 48px;
+  width: 128px;
+  height: 48px;
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 16px;
 
-    background: var(--grey-scale-5);
+  background: var(--grey-scale-5);
 
-    border: 2px solid var(--grey-scale-5);
-    border-radius: .5rem;
+  border: 1.2px solid var(--grey-scale-5);
+  border-radius: 0.5rem;
 
-    background-image: url(../assets/img/R$.svg);
-    background-size: 1rem;
-    background-position-x: 90%;
-    background-position-y: center;
-    background-repeat: no-repeat;
+  background-image: url(../assets/img/R$.svg);
+  background-size: 1.2rem;
+  background-position-x: 90%;
+  background-position-y: center;
+  background-repeat: no-repeat;
 
-    /* text-indent: 1rem; usar se for inverter o cifrão */
-    color: var(--grey-scale-3);
+  /* text-indent: 1rem; usar se for inverter o cifrão */
+  color: var(--grey-scale-1);
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  outline: none;
+}
+
+.input_value:focus {
+  border: 1.2px solid var(--grey-scale-1);
 }
 
 .input_value::placeholder {
-    width: 90%;
+  width: 90%;
 
-    font-family: var(--font-family-2);
-    font-weight: var(--font-weight-4);
-    font-size: var(--fontsize-inputplace);
-    line-height: 1.625rem;
+  font-family: var(--font-family-2);
+  font-weight: var(--font-weight-4);
+  font-size: var(--fontsize-inputplace);
+  line-height: 1.625rem;
 
-    color: var(--grey-scale-3);
+  color: var(--grey-scale-3);
 }
 
-.select {
+.select,
+#appearance-select {
+  /* -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none; */
+  padding-left: 5px;
 
-    height: 48px;
+  height: 48px;
 
-    background: #F8F9FA;
+  background: #f8f9fa;
 
-    border: 2px solid #F8F9FA;
-    border-radius: .5rem;
+  border: 1.2px solid #f8f9fa;
+  border-radius: 0.5rem;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 26px;
-    /* identical to box height, or 217% */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 26px;
+  /* identical to box height, or 217% */
 
+  /* grey-3 */
 
-    /* grey-3 */
+  color: var(--grey-scale-3);
 
-    color: #343A40;
+  outline: none;
+}
+/* .select:active {
+  border: 1.2px solid #212529;
+} */
 
+.select:focus {
+  border: 1.2px solid #212529;
+  color: var(--grey-scale-1);
 }

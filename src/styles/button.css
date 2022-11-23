@@ -72,14 +72,13 @@
 
   background: var(--grey-scale-4);
   border-radius: 0.1538rem;
-  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
 
   color: var(--grey-scale-2);
 }
 
 .btn_trash:hover {
   background: var(--grey-scale-2);
-  color: var(--grey-scale-5);
+  color: var(--grey-scale-4);
 }
 
 .btn_trash > #iconTrash {

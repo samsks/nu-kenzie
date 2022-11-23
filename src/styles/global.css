@@ -9,6 +9,7 @@
 }
 button {
   cursor: pointer;
+  border: none;
 }
 
 :root {
@@ -57,3 +58,4 @@ button {
 @import "./text.css";
 @import "./input.css";
 @import "./button.css";
+@import "./animation.css";

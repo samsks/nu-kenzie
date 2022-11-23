@@ -1,58 +1,72 @@
 .form_operations {
-    width: 363px;
-    height: 351px;
-    padding: 2.375rem 1.5313rem;
+  width: 363px;
+  height: 351px;
+  padding: 2.375rem 1.5313rem;
 
-    background: var(--white-fixed);
+  background: var(--white-fixed);
 
-    border: 1px solid var(--grey-scale-4);
-    border-radius: .25rem;
+  border: 1px solid var(--grey-scale-4);
+  border-radius: 0.25rem;
 }
 
 .div_description {
-    width: 100%;
+  width: 100%;
 }
 
-.div_description>label {
-    font-family: var(--font-family-2);
-    font-style: var(--font-style-1);
-    font-weight: var(--font-weight-4);
-    font-size: var(--fontsize-body);
-    line-height: 1.375rem;
+.div_description > label {
+  font-family: var(--font-family-2);
+  font-style: var(--font-style-1);
+  font-weight: var(--font-weight-4);
+  font-size: var(--fontsize-body);
+  line-height: 1.375rem;
 
-    color: var(--grey-scale-1);
+  color: var(--grey-scale-1);
 
-    margin-bottom: .75rem;
+  margin-bottom: 0.75rem;
 }
 
-.div_description>input {
-    margin-bottom: .275rem;
+.div_description > input {
+  margin-bottom: 0.275rem;
 }
 
-.div_description>p {
-    font-family: var(--font-family-2);
-    font-style: var(--font-style-1);
-    font-weight: var(--font-weight-4);
-    font-size: var(--fontsize-body);
-    line-height: 1.25rem;
+.div_description > input::placeholder {
+}
 
-    color: var(--grey-scale-3);
+.div_description > p {
+  font-family: var(--font-family-2);
+  font-style: var(--font-style-1);
+  font-weight: var(--font-weight-4);
+  font-size: var(--fontsize-body);
+  line-height: 1.25rem;
+
+  color: var(--grey-scale-3);
 }
 
 .div_insertValor {
-    margin-top: 1.1062rem;
-    width: 100%;
+  margin-top: 1.1062rem;
+  width: 100%;
 }
 
 .div_insertValor_valor {
-    width: 40.764%;
+  width: 40.764%;
+}
+.div_insertValor_valor input {
+}
+
+.div_insertValor_valor input::placeholder {
 }
 
 .div_insertValor_type {
-    width: 48%;
+  width: 48%;
 }
 
-.form_operations>button {
-    margin-top: 1.1875rem;
-    width: 100%;
+.div_insertValor_type select {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 26px;
+}
+
+.form_operations > button {
+  margin-top: 1.1875rem;
+  width: 100%;
 }

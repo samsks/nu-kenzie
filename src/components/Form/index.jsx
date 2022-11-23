@@ -52,8 +52,9 @@ const Form = ({ listTransactions, setListTransactions }) => {
           <input
             onChange={(event) => setCoinValue(event.target.value)}
             className="input_value"
-            placeholder={1}
+            placeholder={"0"}
             type="number"
+            min="1"
             required
           />
         </div>
@@ -65,10 +66,12 @@ const Form = ({ listTransactions, setListTransactions }) => {
             onChange={(event) => setTransactionType(event.target.value)}
             className="select"
             name=""
-            id=""
+            id="appearance-select"
             required
           >
-            <option value="Entrada">Entrada</option>
+            <option className="option" value="Entrada">
+              Entrada
+            </option>
             <option value="Despesa">Despesa</option>
           </select>
         </div>
